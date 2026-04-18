@@ -1,0 +1,33 @@
+---------------------------------------------------
+A főoldal jobb oldali oszlopának szövege:
+---------------------------------------------------
+Sulis Állatpark
+Intézményünk 2026-ban nyitotta meg kapuit. Állatparkunkban vendégeinknek családbarát simogatót és különleges madárházat kínálunk. Az alábbi ikonokra kattintva bővebb információt kaphat látványosságainkról.
+
+--------------------------------------------------
+A beillesztendő HTML-kód:
+--------------------------------------------------
+<img src="simogato.png" class="icon mt-5" id="narancs_ragyogas">
+<p class="kozepre">Simogató</p>
+<img src="madarhaz.png" class="icon mt-5">
+<p class="kozepre">Madárház</p>
+
+--------------------------------------------------
+A simogato.html szövege:
+--------------------------------------------------
+Simogató
+A simogatónkban barátságos nyuszik, kecskék és alpakák várják a gyerekeket és a felnőtteket. A közvetlen állatélmény játékos formában segíti a természet megszerettetését, miközben gondozóink ügyelnek a biztonságra és az állatok nyugalmára.
+
+--------------------------------------------------
+A madarhaz.html szövege:
+--------------------------------------------------
+Madárház
+Madárházunkban egzotikus és hazai madárfajok is megfigyelhetők tágas, növényekkel berendezett röpdékben.
+A látogatók pihenőpadokat, ismertető táblákat és fotózásra kijelölt pontokat is találnak az épületben.
+További lehetőségeink:
+vezetett etetések
+interaktív bemutatók
+fotósarok
+ajándékbolt
+pihenőzóna
+madárhang-felismerő játék
