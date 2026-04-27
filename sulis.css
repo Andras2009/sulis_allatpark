@@ -47,6 +47,29 @@ filter: drop-shadow(0px 0px 15px orange);
     font-size: 20px;
     font-style: italic;
     background-color:  #99cde2;
+    padding: 20px;
 
 }
 
+.sorkizart {
+    text-align: justify;
+
+}
+
+h1{
+    margin-top: 20px;
+}
+
+#zold_ragyogas
+{
+-webkit-filter: drop-shadow(0px 0px 15px green);
+filter: drop-shadow(0px 0px 15px green);
+}
+
+.kozeprekep{
+    display: block;
+    margin: 5px auto;
+}
+#nyil{
+    height: 1em;
+}
